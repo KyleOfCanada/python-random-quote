@@ -12,3 +12,6 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+This is a random quote!
+This is yet another random quote!
+Yet another quote?
